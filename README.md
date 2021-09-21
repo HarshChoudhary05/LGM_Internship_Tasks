@@ -1,1 +1,1 @@
-# LGM_Internship_Tasks
+# **LGM Internship Tasks**
